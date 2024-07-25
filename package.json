@@ -1,0 +1,13 @@
+{
+  "name": "bookself-rearranger",
+  "version": "1.0.0",
+  "description": "A project to rearrange books on a bookshelf by their publication dates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "client": "cd client && npm start",
+    "server": "cd server && npm run dev"
+  },
+  "author": "Eshban Artemas",
+  "license": "ISC"
+}
